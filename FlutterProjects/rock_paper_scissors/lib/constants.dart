@@ -1,0 +1,12 @@
+const String kHomeScreenRoute = '/';
+const String kWelcomeScreenRoute = 'welcome_screen';
+const String kWinnerScreenRoute = 'winner_screen';
+const String kRock = "Rock";
+const String kPaper = "Paper";
+const String kScissors = "Scissors";
+const String kPlayer = "Player Wins";
+const String kComputer = "Computer Wins";
+const String kDraw = "Draw, no one wins.";
+const String kWinImage = "images/happy.jpeg";
+const String kLoseImage = "images/sad.jpeg";
+const String kDrawImage = "images/draw.jpeg";
